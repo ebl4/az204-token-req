@@ -1,0 +1,17 @@
+C:\Projetos\az204-token-req\bin\Debug\net6.0\az204-token-req.exe
+C:\Projetos\az204-token-req\bin\Debug\net6.0\az204-token-req.deps.json
+C:\Projetos\az204-token-req\bin\Debug\net6.0\az204-token-req.runtimeconfig.json
+C:\Projetos\az204-token-req\bin\Debug\net6.0\az204-token-req.dll
+C:\Projetos\az204-token-req\bin\Debug\net6.0\ref\az204-token-req.dll
+C:\Projetos\az204-token-req\bin\Debug\net6.0\az204-token-req.pdb
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.csproj.AssemblyReference.cache
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.AssemblyInfoInputs.cache
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.AssemblyInfo.cs
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.csproj.CoreCompileInputs.cache
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.dll
+C:\Projetos\az204-token-req\obj\Debug\net6.0\ref\az204-token-req.dll
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.pdb
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.genruntimeconfig.cache
+C:\Projetos\az204-token-req\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\az204-token-req\obj\Debug\net6.0\az204-token-req.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oy4cEbHgOxM6d6wJ/2iT4+mf2MXVEAG+nN9zPFT2vlX2XAhpuxwcNbnCnJhVMAM6k1lg9qxHejnjTndNrjzt3g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\az204-token-req\\az204-token-req.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edson\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
